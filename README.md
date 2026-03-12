@@ -28,4 +28,4 @@ https://stepik.org/course/575
 
 ## 👤 Автор
 
-GitHub: https://github.com/Bavi-studio
+GitHub: https://github.com/viso-afk
